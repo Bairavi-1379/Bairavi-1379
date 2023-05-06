@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bairavi-1379 call me Baiu
-- 👀 I’m interested in coding
+- 👀 I’m interested in coding and contributing projects
 - 🌱 I’m currently learning java and front end development
 - 💞️ I’m looking to collaborate on with all the passionate developers and contributors
 - 📫 to reach me just leave a mail at bairavi713@gmail.com
