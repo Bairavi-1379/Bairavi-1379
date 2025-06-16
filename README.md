@@ -1,10 +1,28 @@
-- 👋 Hi, I’m @Bairavi-1379 call me Baiu
-- 👀 I’m interested in coding and contributing projects
-- 🌱 I’m currently learning java and front end development
-- 💞️ I’m looking forward to collaborate on with all the passionate developers and contributors
-- 📫 to reach me just leave a mail at bairavi713@gmail.com
+👋 Hi, I'm Bairavi Rajamanickam!
 
-<!---
-Bairavi-1379/Bairavi-1379 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate software developer from India 🇮🇳, currently working at Accenture as a Packaged App Development Associate.
+
+💻 I love building full-stack applications, solving real-world problems, and continuously learning new technologies. I have hands-on experience with:
+
+- 🌐 Backend: ASP.NET Core, Node.js, Express.js
+- ⚙️ Frontend: Angular, React (learning), HTML/CSS, JavaScript
+- 🗄️ Database: PostgreSQL, SQL Server
+- ☁️ Tools: Docker, Azure DevOps, Git, Postman
+
+🧠 Currently learning:
+- React + PERN stack development
+- Java full-stack development
+- Building side projects to strengthen my portfolio
+
+🚀 Projects I'm proud of:
+- **Digital Co-Living Platform** – A full-stack web app built with ASP.NET Core + Angular
+- **Chrome Extension for Job Link Management** – Boosts productivity while job searching
+- **PERN Todo App** – My first React + Node + PostgreSQL app, fully built, debugged, and deployed by me!
+
+📌 Always open to collaboration, learning, and international opportunities.
+
+🌍 Languages I speak: English (fluent), Tamil (native), German (learning B2), Korean (basic)
+
+📫 Connect with me:
+[LinkedIn](https://linkedin.com/in/bairavi-r-1379official/)
+
